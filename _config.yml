@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Arthur Langlois"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Predoctoral Fellow at the Coase-Sandor Institute for Law and Economics"
+  location         : "Chicago"
+  employer         : "University of Chicago"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "arthurlanglois@uchicago.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
